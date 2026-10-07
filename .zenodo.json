@@ -1,0 +1,18 @@
+{
+  "title": "cfRNA_CAR_T: analysis code and data for 'Cell-free RNA Signatures Derived from the Tumor Microenvironment Predict Outcomes of CAR-T Therapy in Large B Cell Lymphoma'",
+  "upload_type": "software",
+  "description": "Code and processed, de-identified input data to reproduce the figures and supplementary tables of Loy et al., Cell Reports Medicine (2026): plasma cell-free RNA from 91 patients with large B-cell lymphoma treated with anti-CD19 CAR-T cells. Includes cfRNA count matrices, sample metadata, precomputed machine-learning results, and notebooks that download and process the public single-cell reference atlases.",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {"name": "Loy, Conor"},
+    {"name": "Agun, Glory"},
+    {"name": "Maurer, Katie"},
+    {"name": "Bosch Vilaseca, Anna"},
+    {"name": "Potapova, Daria"},
+    {"name": "Jacobson, Caron A."},
+    {"name": "Ritz, Jerome"},
+    {"name": "De Vlaminck, Iwijn"}
+  ],
+  "keywords": ["cell-free RNA", "cfRNA", "CAR-T", "large B-cell lymphoma", "tumor microenvironment", "liquid biopsy", "machine learning"]
+}

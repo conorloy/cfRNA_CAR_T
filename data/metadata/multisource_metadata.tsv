@@ -1,0 +1,129 @@
+sample_id	dataset	response	cohort	subtype
+car_t_cfrna_89_bp150x150	cfRNA	NR	Cohort 1	Non-GCB
+car_t_cfrna_260_bp150x150	cfRNA	R	Cohort 2	Non-GCB
+car_t_cfrna_223_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_224_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_206_bp150x150	cfRNA	NR	Cohort 1	GCB
+car_t_cfrna_225_bp150x150	cfRNA	R	Cohort 2	Non-GCB
+car_t_cfrna_305_bp150x150	cfRNA	R	Cohort 2	Unknown
+car_t_cfrna_18_bp150x150	cfRNA	R	Cohort 1	NA
+car_t_cfrna_70_bp150x150	cfRNA	NR	Cohort 1	GCB
+car_t_cfrna_261_bp150x150	cfRNA	NR	Cohort 2	GCB
+car_t_cfrna_175_bp150x150	cfRNA	R	Cohort 1	NA
+car_t_cfrna_194_bp150x150	cfRNA	R	Cohort 1	Non-GCB
+car_t_cfrna_93_bp150x150	cfRNA	R	Cohort 1	Unknown
+car_t_cfrna_113_bp150x150	cfRNA	NR	Cohort 1	GCB
+car_t_cfrna_156_bp150x150	cfRNA	R	Cohort 1	GCB
+car_t_cfrna_179_bp150x150	cfRNA	R	Cohort 1	GCB
+car_t_cfrna_139_bp150x150	cfRNA	NR	Cohort 1	Non-GCB
+car_t_cfrna_296_bp150x150	cfRNA	R	Cohort 2	Non-GCB
+car_t_cfrna_214_bp150x150	cfRNA	R	Cohort 2	Unknown
+car_t_cfrna_54_bp150x150	cfRNA	R	Cohort 1	GCB
+car_t_cfrna_12_bp150x150	cfRNA	R	Cohort 1	GCB
+car_t_cfrna_306_bp150x150	cfRNA	NR	Cohort 2	GCB
+car_t_cfrna_162_bp150x150	cfRNA	NR	Cohort 1	GCB
+car_t_cfrna_34_bp150x150	cfRNA	R	Cohort 1	Non-GCB
+car_t_cfrna_163_bp150x150	cfRNA	R	Cohort 1	GCB
+car_t_cfrna_142_bp150x150	cfRNA	NR	Cohort 1	GCB
+car_t_cfrna_202_bp150x150	cfRNA	NR	Cohort 1	Non-GCB
+car_t_cfrna_215_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_124_bp150x150	cfRNA	NR	Cohort 1	Non-GCB
+car_t_cfrna_268_bp150x150	cfRNA	R	Cohort 2	Non-GCB
+car_t_cfrna_307_bp150x150	cfRNA	NR	Cohort 2	Non-GCB
+car_t_cfrna_83_bp150x150	cfRNA	R	Cohort 1	GCB
+car_t_cfrna_357_bp150x150	cfRNA	NR	Cohort 3	Non-GCB
+car_t_cfrna_358_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_381_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_344_bp150x150	cfRNA	R	Cohort 3	Unknown
+car_t_cfrna_368_bp150x150	cfRNA	R	Cohort 3	Non-GCB
+car_t_cfrna_369_bp150x150	cfRNA	NR	Cohort 3	Unknown
+car_t_cfrna_384_bp150x150	cfRNA	R	Cohort 3	Non-GCB
+car_t_cfrna_360_bp150x150	cfRNA	R	Cohort 3	Non-GCB
+car_t_cfrna_356_bp150x150	cfRNA	R	Cohort 3	Unknown
+car_t_cfrna_348_bp150x150	cfRNA	R	Cohort 3	Unknown
+car_t_cfrna_347_bp150x150	cfRNA	NR	Cohort 3	Non-GCB
+car_t_cfrna_222_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_359_bp150x150	cfRNA	NR	Cohort 3	NA
+car_t_cfrna_108_bp150x150	cfRNA	R	Cohort 1	Non-GCB
+car_t_cfrna_346_bp150x150	cfRNA	R	Cohort 3	Unknown
+car_t_cfrna_383_bp150x150	cfRNA	NR	Cohort 3	NA
+car_t_cfrna_362_bp150x150	cfRNA	R	Cohort 3	Non-GCB
+car_t_cfrna_373_bp150x150	cfRNA	R	Cohort 3	Non-GCB
+car_t_cfrna_106_bp150x150	cfRNA	R	Cohort 1	NA
+car_t_cfrna_370_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_372_bp150x150	cfRNA	R	Cohort 3	Non-GCB
+car_t_cfrna_351_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_228_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_350_bp150x150	cfRNA	NR	Cohort 3	GCB
+car_t_cfrna_361_bp150x150	cfRNA	NR	Cohort 3	Non-GCB
+car_t_cfrna_264_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_349_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_385_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_353_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_345_bp150x150	cfRNA	R	Cohort 3	Non-GCB
+car_t_cfrna_376_bp150x150	cfRNA	R	Cohort 3	Non-GCB
+car_t_cfrna_375_bp150x150	cfRNA	NR	Cohort 3	Unknown
+car_t_cfrna_365_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_380_bp150x150	cfRNA	NR	Cohort 3	Non-GCB
+car_t_cfrna_382_bp150x150	cfRNA	R	Cohort 3	Non-GCB
+car_t_cfrna_352_bp150x150	cfRNA	NR	Cohort 3	Non-GCB
+car_t_cfrna_364_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_386_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_363_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_319_bp150x150	cfRNA	R	Cohort 2	Non-GCB
+car_t_cfrna_377_bp150x150	cfRNA	R	Cohort 3	GCB
+car_t_cfrna_218_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_84_bp150x150	cfRNA	R	Cohort 1	Non-GCB
+car_t_cfrna_229_bp150x150	cfRNA	R	Cohort 2	Unknown
+car_t_cfrna_265_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_289_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_107_bp150x150	cfRNA	NR	Cohort 1	GCB
+car_t_cfrna_290_bp150x150	cfRNA	R	Cohort 2	GCB
+car_t_cfrna_272_bp150x150	cfRNA	NR	Cohort 2	Non-GCB
+car_t_cfrna_281_bp150x150	cfRNA	R	Cohort 2	Unknown
+car_t_cfrna_43_bp150x150	cfRNA	R	Cohort 1	GCB
+car_t_cfrna_273_bp150x150	cfRNA	R	Cohort 2	Non-GCB
+car_t_cfrna_320_bp150x150	cfRNA	NR	Cohort 2	GCB
+car_t_cfrna_311_bp150x150	cfRNA	R	Cohort 2	Non-GCB
+car_t_cfrna_318_bp150x150	cfRNA	NR	Cohort 2	Non-GCB
+car_t_cfrna_154_bp150x150	cfRNA	R	Cohort 1	GCB
+car_t_cfrna_284_bp150x150	cfRNA	R	Cohort 2	NA
+car_t_cfrna_110_bp150x150	cfRNA	R	Cohort 1	GCB
+car_t_cfrna_1_bp150x150	cfRNA	NR	Cohort 1	GCB
+CAR122	PBMC	R	Maurer et al. 2024	NA
+CAR139	PBMC	R	Maurer et al. 2024	NA
+CAR142	PBMC	NR	Maurer et al. 2024	NA
+CAR147	PBMC	NR	Maurer et al. 2024	NA
+CAR138	PBMC	R	Maurer et al. 2024	NA
+Patient10	PBMC	NR	Maurer et al. 2024	NA
+Patient11	PBMC	R	Maurer et al. 2024	NA
+Patient12	PBMC	R	Maurer et al. 2024	NA
+Patient13	PBMC	R	Maurer et al. 2024	NA
+Patient14	PBMC	NR	Maurer et al. 2024	NA
+Patient15	PBMC	R	Maurer et al. 2024	NA
+Patient17	PBMC	R	Maurer et al. 2024	NA
+Patient18	PBMC	NR	Maurer et al. 2024	NA
+Patient19	PBMC	R	Maurer et al. 2024	NA
+Patient6	PBMC	NR	Maurer et al. 2024	NA
+Patient8	PBMC	R	Maurer et al. 2024	NA
+Patient9	PBMC	NR	Maurer et al. 2024	NA
+TME_1000.01	TME	NR	Li et al. 2025	Non-GCB
+TME_1072.01	TME	R	Li et al. 2025	GCB
+TME_1074.01	TME	R	Li et al. 2025	GCB
+TME_1103.01	TME	NR	Li et al. 2025	GCB
+TME_1108.01	TME	R	Li et al. 2025	NA
+TME_1110.01	TME	R	Li et al. 2025	NA
+TME_1111.01	TME	R	Li et al. 2025	GCB
+TME_1112.01	TME	NR	Li et al. 2025	NA
+TME_1124.01	TME	NR	Li et al. 2025	GCB
+TME_1129.01	TME	R	Li et al. 2025	NA
+TME_1132.01	TME	R	Li et al. 2025	Non-GCB
+TME_1154.01	TME	R	Li et al. 2025	Non-GCB
+TME_1156.01	TME	R	Li et al. 2025	Non-GCB
+TME_1158.01	TME	R	Li et al. 2025	Non-GCB
+TME_1159.01	TME	R	Li et al. 2025	NA
+TME_1069.02	TME	NR	Li et al. 2025	GCB
+TME_1163.01	TME	R	Li et al. 2025	GCB
+TME_1167.01	TME	R	Li et al. 2025	GCB
+TME_1168.01	TME	R	Li et al. 2025	Non-GCB
+TME_1016.01	TME	R	Li et al. 2025	Non-GCB

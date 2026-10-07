@@ -1,0 +1,15 @@
+# Global path configuration for cfRNA_CAR_T.
+# Relative paths are resolved against the repository root (the folder containing this file).
+#
+# To use other locations without editing this file, create config.local.yaml next to it
+# (it is ignored by git). Any key set there overrides the value below, e.g.
+#   input_dir: /path/to/my/input_data
+
+# Input data (see README.md).
+input_dir: data
+
+# Intermediate results written by code/00_scrna_prep and code/01_compute, read by code/02_figures.
+results_dir: results
+
+# Figure panels written by code/02_figures.
+plots_dir: plots

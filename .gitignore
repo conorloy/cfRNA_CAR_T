@@ -1,0 +1,48 @@
+# ---- Input data (data/) -------------------------------------------------------------------
+# Tracked: the cfRNA inputs. Not tracked: scRNA-seq files (data/scrna/).
+data/*
+!data/README.md
+!data/metadata/
+!data/counts/
+!data/reference/
+!data/external/
+data/external/*
+!data/external/CTO_fractions_CART.tsv
+!data/external/Decruyenaere_supp_table4_DE_plasma.csv
+
+# ---- Results (results/) ---------------------------------------------------------------------
+# Tracked: precomputed ML results (results/ml/, ~3-4 h to regenerate), except the per-iteration
+# permutation folders (summarized in holdout_c3/permutation_aucs.csv).
+results/*
+!results/.gitkeep
+!results/ml/
+results/ml/holdout_c3/perm_*/
+
+# ---- Plots ----------------------------------------------------------------------------------
+plots/*
+!plots/.gitkeep
+
+# Local path overrides (see config.yaml)
+config.local.yaml
+
+# Large / binary files that should never be committed outside the tracked folders above
+*.h5
+*.h5ad
+*.h5Seurat
+*.loom
+*.parquet
+*.pkl
+*.npz
+*.rds
+*.Rds
+*.RData
+*.xlsx
+*.pdf
+*.png
+
+# Notebook / editor cruft
+.ipynb_checkpoints/
+__pycache__/
+.Rhistory
+.Rproj.user/
+.DS_Store
